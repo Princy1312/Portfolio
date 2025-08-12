@@ -9,3 +9,4 @@ navLinks.forEach((link,index) =>  {
         slider.style.transform = `translateX(${link.offsetLeft}px)`;
     });
 });
+

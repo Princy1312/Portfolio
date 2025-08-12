@@ -181,6 +181,13 @@ li {
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
 }
 
+.pro{
+  text-align: center;
+  border: solid 2px;
+  padding: 21px;
+  border-radius: 25px;
+  margin: 12rem;
+}
 
 .div1{
 
@@ -420,3 +427,7 @@ a:hover i {
   }
   
 }
+
+
+
+
